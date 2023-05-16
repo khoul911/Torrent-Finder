@@ -1,0 +1,11 @@
+tkinter
+random
+json
+requests
+urllib3
+qbittorrentapi
+customtkinter
+bs4
+CTkMessagebox
+selenium
+pythonopensubtitles
