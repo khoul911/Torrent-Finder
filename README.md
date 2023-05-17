@@ -1,4 +1,5 @@
 ***Inside The ZIP File is the build of the software with a .exe and all the dependencies***
+***You can check what's inside it in the txt file***
 
 # Torrent-Finder
 Searches for torrents on several websites, downloads them to qBitorrent automatically and allows the search and download of Subtitles from Open Subtitles
